@@ -5,7 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/QM/PYUXNGYMSKIHKTALEAQVB7.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/ZN/BD48KYAJWTIQ7H5NDF9Q71.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7P/LJRQHPZTL18QPKVBF2J8LA.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/0H/SRXPU0UV8KU8D3PVG7NTMB.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/IR/RR11CPMRGCTXQLWZM4SXKC.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/11/HN4DGXQ5X9XMFB4HCBFVNG.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/Z0/FVT6DA1WXD45ZXADKAY48X.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/ZR/YMLWHGUA06WLFLDSC9MW1E.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/B9/5RI04SZ19LORHVFUS467E1.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/JA/Z6K6MLIX5102OFFSYZBSFA.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/EC/6GIFDKLSJ33BJOGG6GCN9H.uasset",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Andres-Reyes/Desktop/curso video juego unreal engine/Curso-Video-Juegos/introduccion/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset"
 			]
 		}
 	]
